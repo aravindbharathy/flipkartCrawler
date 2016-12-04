@@ -2,6 +2,8 @@
 
 Use it only for research and educational purposes!
 
+You need to first run the crawler inside the crawler folder and then run the extrctor.
+
 ## The Crawler
 
 The crawler crawls product category pages of flipkart and collects all the product urls (it handles pagination). You can set the maximum number of pages to crawl. Normally Flipkart has around 10 products in each page.
